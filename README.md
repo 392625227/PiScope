@@ -3,7 +3,7 @@ changes list:
 1. From COM2 get data flow
 2. support Python3.6
 3. matplotlib has not support show(), change to draw() methed
-4. jupyter version and pure python version
+4. jupyter version(piscope.ipynb) and pure python version(com2scope.py)
 5. tested on windows7 only
 
 
