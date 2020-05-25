@@ -1,4 +1,14 @@
-# PiScope: Turn your Raspberry Pi into an Oscilloscope/XY Plotter
+# COM port 2 scope fork from PiScopes
+changes list:
+1. From COM2 get data flow
+2. support Python3.6
+3. matplotlib has not support show(), change to draw() methed
+4. jupyter version and pure python version
+5. tested on windows7 only
+
+
+******************************************************************
+PiScope: Turn your Raspberry Pi into an Oscilloscope/XY Plotter
 
 An **oscilloscope** is a laboratory instrument commonly used to display and analyze the waveform of electronic signals. In effect, the device draws a graph of the instantaneous signal voltage as a function of time.
 
